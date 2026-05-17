@@ -1,0 +1,119 @@
+[
+  {
+    "Name": "MEP Systems",
+    "Categories": [
+      "OST_DuctCurves",
+      "OST_DuctFitting",
+      "OST_DuctAccessory",
+      "OST_DuctInsulations",
+      "OST_FlexDuctCurves",
+      "OST_PipeCurves",
+      "OST_PipeFitting",
+      "OST_PipeAccessory",
+      "OST_PipeInsulations",
+      "OST_FlexPipeCurves",
+      "OST_MechanicalEquipment",
+      "OST_PlumbingFixtures",
+      "OST_Sprinklers",
+      "OST_CableTray",
+      "OST_CableTrayFitting",
+      "OST_Conduit",
+      "OST_ConduitFitting",
+      "OST_ElectricalEquipment",
+      "OST_ElectricalFixtures",
+      "OST_LightingDevices",
+      "OST_LightingFixtures",
+      "OST_DataDevices",
+      "OST_CommunicationDevices",
+      "OST_FireAlarmDevices",
+      "OST_NurseCallDevices",
+      "OST_SecurityDevices"
+    ]
+  },
+  {
+    "Name": "Furniture & Plumbing",
+    "Categories": [
+      "OST_Furniture",
+      "OST_FurnitureSystems",
+      "OST_Casework",
+      "OST_SpecialityEquipment",
+      "OST_PlumbingFixtures"
+    ]
+  },
+  {
+    "Name": "Electrical Equipment",
+    "Categories": [
+      "OST_ElectricalEquipment",
+      "OST_ElectricalFixtures",
+      "OST_LightingFixtures",
+      "OST_LightingDevices",
+      "OST_DataDevices",
+      "OST_CommunicationDevices",
+      "OST_FireAlarmDevices",
+      "OST_NurseCallDevices",
+      "OST_SecurityDevices",
+      "OST_Conduit",
+      "OST_ConduitFitting",
+      "OST_CableTray",
+      "OST_CableTrayFitting"
+    ]
+  },
+  {
+    "Name": "Equipment",
+    "Categories": [
+      "OST_CableTrayFitting",
+      "OST_CableTray",
+      "OST_CommunicationDevices",
+      "OST_ConduitFitting",
+      "OST_Conduit",
+      "OST_DataDevices",
+      "OST_ElectricalEquipment",
+      "OST_ElectricalFixtures",
+      "OST_FireAlarmDevices",
+      "OST_LightingDevices",
+      "OST_LightingFixtures",
+      "OST_NurseCallDevices",
+      "OST_SecurityDevices"
+    ]
+  },
+  {
+    "Name": "Set 1",
+    "Categories": [
+      "OST_DuctTerminal",
+      "OST_DuctAccessory",
+      "OST_DuctFitting",
+      "OST_DuctInsulations",
+      "OST_DuctLinings",
+      "OST_PlaceHolderDucts",
+      "OST_DuctSystem",
+      "OST_DuctCurves",
+      "OST_ElectricalEquipment",
+      "OST_PipeFitting",
+      "OST_PipeInsulations",
+      "OST_PlaceHolderPipes",
+      "OST_PipeSegments",
+      "OST_PipeCurves"
+    ]
+  },
+  {
+    "Name": "Set2",
+    "Categories": [
+      "OST_DuctTerminal",
+      "OST_DuctAccessory",
+      "OST_DuctFitting",
+      "OST_DuctInsulations",
+      "OST_DuctLinings",
+      "OST_PlaceHolderDucts",
+      "OST_DuctSystem",
+      "OST_DuctCurves",
+      "OST_ElectricalEquipment",
+      "OST_MechanicalEquipment",
+      "OST_MechanicalEquipmentSet",
+      "OST_PipeFitting",
+      "OST_PipeInsulations",
+      "OST_PlaceHolderPipes",
+      "OST_PipeSegments",
+      "OST_PipeCurves"
+    ]
+  }
+]
